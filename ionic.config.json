@@ -1,0 +1,7 @@
+{
+  "name": "SipsiApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
